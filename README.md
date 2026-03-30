@@ -14,7 +14,7 @@ The dataset is widely used for benchmarking sentiment analysis models in natural
 2. Stacked LSTM - 88.8
 3. Bidirectional LSTM - 86.8
 4. Stacked GRU - 88.8
-5. Bidirectional GRU - planned
+5. Bidirectional GRU - 88.7
 6. CNN + LSTM hybrid - Planned
 7. BERT - Planned
 
